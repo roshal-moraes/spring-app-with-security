@@ -10,4 +10,4 @@ Dependencies downloaded using Maven.
 Full java configuration used.  
 
 Implemented using concepts and codes learnt from the Udemy course:
-https://tcsglobal.udemy.com/course/spring-hibernate-tutorial/
+https://www.udemy.com/course/spring-hibernate-tutorial/
