@@ -9,5 +9,5 @@ Pages written in jsp and styled with simple css and bootstrap.
 Dependencies downloaded using Maven.  
 Full java configuration used.  
 
-Implemented using concepts learnd from the Udemy course:
+Implemented using concepts and codes learnt from the Udemy course:
 https://tcsglobal.udemy.com/course/spring-hibernate-tutorial/
